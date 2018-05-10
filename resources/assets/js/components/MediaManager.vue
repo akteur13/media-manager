@@ -20,8 +20,6 @@
           @upload-file="uploadFile"
         />
 
-        <h1>Test changes</h1>
-
       </div>
 
       <div
